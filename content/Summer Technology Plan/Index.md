@@ -4,6 +4,8 @@ longform:
   title: Summer Technology Plan
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Introduction
+  sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
