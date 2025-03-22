@@ -2,9 +2,10 @@
 title: Transition Laptops to Windows 11
 draft: false
 tags:
-  - SUMMER
   - LAPTOPS
   - WINDOWS
+  - SES
+  - IES
 ---
  
 # Objective
