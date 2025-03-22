@@ -6,6 +6,7 @@ longform:
   sceneFolder: /
   scenes:
     - Introduction
+    - Transition Laptops to Windows 11
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
