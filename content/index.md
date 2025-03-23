@@ -9,11 +9,13 @@ Welcome to the Technology Department Project Hub, your one-stop resource for sta
 ---
 ### 🔄 Windows 11 Upgrade
 
-: Upgrading all eligible devices from Windows 10 to Windows 11
+What: Upgrading all eligible devices from Windows 10 to Windows 11
 
 Why: Windows 10 support ends in 2025 – security and compatibility are key
 
 Status: Scheduled for Prior to Summer Break
+
+Plan of Action: [[Transition Laptops to Windows 11]]
 
 
 ### 🧹 Classroom Technology Removal
@@ -22,9 +24,9 @@ What: Removing outdated wall-mounted technology
 
 Why: Prepares rooms for paint and new installations
 
-Status: Ongoing
+Status: Scheduled for Summer
 
-View Plan of Action ➜
+Plan of Action: [[Wall Cleanup at  Starr Elementary]]
 
 
 ### ⚙️ New Technology Installation
@@ -33,7 +35,7 @@ What: Installing updated display systems, networking hardware, and classroom too
 
 Why: Improve teaching tools and align with modern learning needs
 
-Status: Begins after wall preparation is complete
+Status: Scheduled for Summer Break
 
 
 
