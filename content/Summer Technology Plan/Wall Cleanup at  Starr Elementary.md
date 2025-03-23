@@ -9,8 +9,7 @@ tags:
 
 # Objective
 
-> [!TIP] Remove everything we don't need (old technology) off the wall's of 3rd and 4th Grade Classrooms (main hall) at Starr Elementary to prepare for paint this Summer.
-
+Remove everything (old technology) we don't need  off the wall's of 3rd and 4th Grade Classrooms (main hall) at Starr Elementary to prepare for updates this summer.
 
 ## Why It's Necessary
 
@@ -29,6 +28,52 @@ This cleanout is necessary to:
 
 This process is a key step in upgrading our classrooms for a better, more modern educational experience.
 
-### Action Plan
- - Classroom walk throughs and determine what needs to say and what needs to go.
-	 - Mark what needs to stay with a certain color sticker (some marking system), or what needs to go according to using fewest number of stickers.
+---
+
+### 🛠️ Plan of Action
+
+To ensure a smooth and efficient removal process, we’ve developed the following plan to guide teams through the steps of clearing outdated tech from classrooms:
+
+
+#### ✅ **1. Inventory and Identification**
+
+- Walk each classroom to **identify outdated wall-mounted technology** (e.g., projectors, mounts, speakers, old cabling).
+    
+- Document what needs to be removed using a **standardized checklist**.
+    
+- Tag any equipment that may contain sensitive components for proper disposal or recycling.
+    
+
+#### 🔒 **2. Power & Connectivity Check**
+
+- **Disconnect power sources and network connections** safely before removal.
+    
+- Label any remaining in-wall connections that will be reused for future installations.
+    
+
+#### 🧰 **3. Safe Equipment Removal**
+
+- Use appropriate tools and ladders to safely detach all mounts and wall hardware.
+    
+- Remove cabling (e.g., VGA, HDMI, audio) that is no longer needed or obstructs painting.
+    
+
+#### 📦 **4. Collection & Disposal**
+
+- Place removed equipment in designated collection bins or carts.
+    
+- Document serial numbers of any inventoried items being discarded.
+    
+
+#### 📅 **6. Timeline & Coordination**
+
+- Coordinate with building custodians and facilities teams to align with **painting schedules**.
+    
+- Schedule tech removal at least **one week prior to paint work** in each building.
+    
+
+#### 🤝 **7. Communication & Follow-Up**
+
+- Notify building staff when their rooms are scheduled for cleanout.
+    
+- Provide updates and timelines for new technology installation after painting is complete.
