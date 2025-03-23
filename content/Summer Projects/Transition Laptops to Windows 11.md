@@ -26,12 +26,10 @@ To ensure our school district maintains a secure and reliable digital learning e
 
 This is a proactive step to protect student and staff data, improve performance across district devices, and avoid disruption due to unsupported technology.
 
-
+---
 ### 🛠️ Plan of Action 
 
 To ensure a secure, efficient, and minimally disruptive transition to Windows 11 across the district, we’ve outlined the following multi-phase plan:
-
----
 
 #### 💾 **1. Data Backup & User Preparation**
 
@@ -40,9 +38,7 @@ To ensure a secure, efficient, and minimally disruptive transition to Windows 11
 - Encourage **user data backup** to Google Drive.
     
 - Provide FAQ and support docs on what to expect before and after the upgrade.
-    
 
----
 
 #### 💻 **2. Testing**
    
@@ -51,16 +47,12 @@ To ensure a secure, efficient, and minimally disruptive transition to Windows 11
 - Determine  the how long each device takes to upgrade and how many can be done at one time by one person.
 
 
----
-
 #### 🗓️ **3. Upgrade Rollout Schedule**
 
 - Coordinate with **school site admins** to build an upgrade calendar.
     
 - Schedule rollouts in **batches** to allow for troubleshooting and minimal downtime.
-    
 
----
 
 #### 🧰 **4. Upgrade Execution**
 
@@ -75,8 +67,6 @@ To ensure a secure, efficient, and minimally disruptive transition to Windows 11
 - Verify successful installation and domain rejoin where applicable.
     
 
----
-
 #### 🔍 **5. Post-Upgrade Validation**
 
 - Confirm functionality of:
@@ -90,8 +80,6 @@ To ensure a secure, efficient, and minimally disruptive transition to Windows 11
 - Check compliance with district IT standards and asset inventory.
     
 
----
-
 #### 📞 **7. Support & Follow-Up**
 
 - Provide follow-up support for users encountering issues post-upgrade.
@@ -100,8 +88,6 @@ To ensure a secure, efficient, and minimally disruptive transition to Windows 11
     
 - Track completion progress and report to district leadership.
     
-
----
 
 #### 📚 **8. Communication & Documentation**
 
