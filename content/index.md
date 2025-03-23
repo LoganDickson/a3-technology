@@ -26,7 +26,7 @@ Why: Prepares rooms for paint and new installations
 
 Status: Scheduled for Summer
 
-Plan of Action: [[Wall Cleanup at  Starr Elementary]]
+Plan of Action: [[Wall Cleanup at Starr Elementary]]
 
 
 ### ⚙️ New Technology Installation
@@ -67,5 +67,5 @@ Regular updates will be posted here as milestones are reached
 ---
 
 #### 📬 Questions or Feedback?
-Please reach out to the [Technology Helpdesk](https://1to1plus.com/pages/#/myTasks/submit_request/174) with any questions or to report issues during the transition.
+Please reach out to the [Technology Helpdesk](https://1to1plus.com/login/anderson3_sc) with any questions or to report issues during the transition.
 
