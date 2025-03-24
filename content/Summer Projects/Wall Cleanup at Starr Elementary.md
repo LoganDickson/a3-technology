@@ -13,6 +13,7 @@ Remove everything (old technology) we don't need  off the wall's of 3rd and 4th 
 
 ## Why It's Necessary
 
+
 As part of our ongoing efforts to modernize classroom environments, we will be **removing outdated wall-mounted technology** from all classrooms during the summer. This includes legacy projectors, speakers, mounts, cabling, and other obsolete equipment.
 
 This cleanout is necessary to:
@@ -28,7 +29,10 @@ This cleanout is necessary to:
 
 This process is a key step in upgrading our classrooms for a better, more modern educational experience.
 
+
+
 ---
+
 
 ### 🛠️ Plan of Action
 
